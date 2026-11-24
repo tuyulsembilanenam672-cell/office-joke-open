@@ -1,0 +1,10 @@
+{
+  "name": "office-joke-open",
+  "version": "1.0.0",
+  "description": "Make the AI Judge Laugh: The Office Joke Open — one line of office comedy, at most 200 characters",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "python3 main.py"
+  }
+}
